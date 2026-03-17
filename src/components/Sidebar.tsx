@@ -50,7 +50,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
   return (
     <div className="w-80 bg-white border-l border-pink-100 p-6 flex flex-col h-full overflow-y-auto shadow-[-4px_0_15px_rgba(0,0,0,0.05)]">
       <h1 className="text-2xl font-bold text-pink-500 mb-6 text-center tracking-wide">
-        ✨ Weekly Planner ✨
+      🦊Sakayori Planner
       </h1>
 
       {/* Week Navigation */}
